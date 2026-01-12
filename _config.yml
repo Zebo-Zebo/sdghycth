@@ -1,0 +1,9 @@
+# _config.yml
+title: Блог об интернете и DNS
+author: Зебо Исабаева
+email: isabaeva08@icloud.com
+description: Объясняю, как устроен интернет — просто и понятно.
+baseurl: ""
+url: "https://Zebo-Zebo.github.io"
+theme: minima
+locale: ru_RU
